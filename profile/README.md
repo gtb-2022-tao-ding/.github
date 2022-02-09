@@ -3,7 +3,7 @@
 Hi! My name is Ding Tao. English name for Tim.
 
 This is me in 2004
-
+![Image text]https://github.com/gtb-2022-tao-ding/.github/blob/main/profile/assets/1.jpg
 
 And this is me last year.
 
