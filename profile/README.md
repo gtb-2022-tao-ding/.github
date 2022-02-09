@@ -8,8 +8,9 @@ This is me in 2004
 
 And this is me last year.
 
+![Image text](https://github.com/gtb-2022-tao-ding/.github/blob/main/profile/assets/2.jpeg)
 
-Thnks for watching.
+Thanks for watching.
 
 
 
