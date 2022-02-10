@@ -6,6 +6,8 @@ My major for the undergraduate study is information science and technology on th
 
  The major for master program is data science. 
 
+![Image text](https://github.com/gtb-2022-tao-ding/.github/blob/main/profile/assets/WechatIMG517.jpeg)
+
 Yeah !
 
 This is me in 2004 on Netherlands.
