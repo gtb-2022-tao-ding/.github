@@ -4,7 +4,7 @@ Hi! My name is Ding Tao. English name for Tim.
 
 My major for the undergraduate study is information science and technology on the University of Arizona (American, Tucson).
 
-![Image text](https://github.com/gtb-2022-tao-ding/.github/blob/main/profile/assets/WechatIMG517.jpegdd)
+![Image text](https://github.com/gtb-2022-tao-ding/.github/blob/main/profile/assets/WechatIMG517.jpeg)
 
  The major for master program is data science. 
 
