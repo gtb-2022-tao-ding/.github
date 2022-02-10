@@ -2,7 +2,11 @@
 
 Hi! My name is Ding Tao. English name for Tim.
 
-This is me in 2004
+My major for the undergraduate study is information science and technology. The major formaster is data science. 
+
+Yeah !
+
+This is me in 2004 on Netherlands.
 
 ![Image text](https://github.com/gtb-2022-tao-ding/.github/blob/main/profile/assets/1.jpg)
 
