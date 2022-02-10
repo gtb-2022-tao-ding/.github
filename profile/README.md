@@ -2,7 +2,9 @@
 
 Hi! My name is Ding Tao. English name for Tim.
 
-My major for the undergraduate study is information science and technology. The major formaster is data science. 
+My major for the undergraduate study is information science and technology on the University of Arizona (American, Tucson).
+
+ The major for master program is data science. 
 
 Yeah !
 
